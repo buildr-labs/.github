@@ -1,3 +1,15 @@
+# Buildr Labs
+
+After years of working together as a part of larger teams, we have decided to branch off and start our own company.
+Our team comprises dedicated developers boasting extensive experience across various industries.
+
+What sets us apart is our collective expertise in areas like...
+
+- Product Management
+- Product Development
+- Artificial Intelligence
+- User Experience
+
 
 ## The team
 
