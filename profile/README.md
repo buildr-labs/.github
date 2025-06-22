@@ -10,12 +10,10 @@
 <a href="https://mhauge.dev/"><img src="https://avatars.githubusercontent.com/u/13080072?v=4" width="100px;" alt=""/><br /><sub><b>Morten</b></sub></a>
 </td>
 <td>
-<a href="https://github.com/jtfidje"><img src="https://avatars.githubusercontent.com/u/15209323?v=4
-" width="100px;" alt=""/><br /><sub><b>Jahn Thomas</b></sub></a>
+<a href="https://github.com/jtfidje"><img src="https://buildr-labs-web.vercel.app/_next/image?url=%2Fjahnthomas.jpg&w=384&q=75" width="100px;height:100px;object-fit:contain;" alt=""/><br /><sub><b>Jahn Thomas</b></sub></a>
 </td>
 <td>
-<a href="https://github.com/kraakevik"><img src="https://avatars.githubusercontent.com/u/170652702?v=4
-" width="100px;" alt=""/><br /><sub><b>Christian</b></sub></a>
+<a href="https://github.com/kraakevik"><img src="https://buildr-labs-web.vercel.app/_next/image?url=%2Fchristian.jpg&w=384&q=75" width="100px;height:100px;object-fit:contain;" alt=""/><br /><sub><b>Christian</b></sub></a>
 
 </td>
 </tr>
